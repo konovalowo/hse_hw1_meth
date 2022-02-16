@@ -1,5 +1,7 @@
 # hse_hw1_meth
 
+https://colab.research.google.com/drive/14pzMQFCoyqHCro1P94VfYMYfBJLmF-M4?usp=sharing
+
 ## Сколько ридов пришлось на целевые регионы
 | регион            | 8cell | epiblast | icm  |
 |-------------------|-------|----------|------|
