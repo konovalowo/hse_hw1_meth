@@ -20,6 +20,23 @@
 | epiblast | 2.92%                          |
 | icm      | 9.08%                          |
 
+## M-bias
+
+# 8 cell
+![](/img/m_cell8_r1.png)
+
+![](/img/m_cell8_r2.png)
+
+# Epiblast
+![](/img/m_epiblast_r1.png)
+
+![](/img/m_epiblast_r2.png)
+
+# ICM
+![](/img/m_icm_r1.png)
+
+![](/img/m_icm_r2.png)
+
 ## Гистограммы распределения метилирования цитозинов по хромосоме 
 ![](/img/8cell_dist.png)
 
