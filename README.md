@@ -1,6 +1,11 @@
 # hse_hw1_meth
 
-https://colab.research.google.com/drive/14pzMQFCoyqHCro1P94VfYMYfBJLmF-M4?usp=sharing
+Ссылка на google colab ноутбук: https://colab.research.google.com/drive/14pzMQFCoyqHCro1P94VfYMYfBJLmF-M4?usp=sharing
+
+Скриншоты в папке img.
+
+Отчеты в папке html.
+
 
 ## Сколько ридов пришлось на целевые регионы
 | регион            | 8cell | epiblast | icm  |
@@ -14,3 +19,18 @@ https://colab.research.google.com/drive/14pzMQFCoyqHCro1P94VfYMYfBJLmF-M4?usp=sh
 | 8cell    | 18.31%                         |
 | epiblast | 2.92%                          |
 | icm      | 9.08%                          |
+
+## Гистограммы распределения метилирования цитозинов по хромосоме 
+![](/img/8cell_dist.png)
+
+![](/img/epiblast_dist.png)
+
+![](/img/icm_dist.png)
+
+## Уровни метилирования
+
+![](/img/image_methylation.png)
+
+## Уровни покрытия
+
+![](/img/image_cov.png)
